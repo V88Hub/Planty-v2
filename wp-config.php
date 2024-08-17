@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'Planty' );
+define( 'DB_NAME', 'Planty_server' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
@@ -32,7 +32,7 @@ define( 'DB_PASSWORD', '' );
 define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
+define( 'DB_CHARSET', 'utf8' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'I%k%L+882$m: lYk-x/1@D^S(xA:e=6{<Pvo$1viYABfK,!#uou%W_oeZ7/.2dub' );
-define( 'SECURE_AUTH_KEY',  '[{trE`ev7*;Q*Z[C=Wk(;{prjV,&&W }-s%6^{RZ %X$l)?:dU=vXiP5)/;.z9W:' );
-define( 'LOGGED_IN_KEY',    'zLX!<$l_*XPP~AU&|(Kb2k(7_9u,`l~Xt~edwl|7 DS*5j9Rdu0/vVPasex:8Yfo' );
-define( 'NONCE_KEY',        '@onWqAK<Px$Pw3vsTCVkx>WxAXrR8&HvjFfkQbCH{8:FZ%A-*rDo=)+axq@[+^AF' );
-define( 'AUTH_SALT',        'X|w94m8H;onv|-Yv;&=3j/HwCPKPU!-z{G+;eEG*{-QqF+Hpb9)&8Z),RAq-Auk>' );
-define( 'SECURE_AUTH_SALT', 'SFKoL<F]M{@LpD;?(09_TPznAH=%?]W4Nm|TI][Ir^+3_2MV99 Q|kbXb^C!T+RA' );
-define( 'LOGGED_IN_SALT',   'x6<BieV7-2p-pc!}#SUmn=`O?4%mJ|e!<]iU|YES?k%YND=*hyH,mTk._C+7$Fj6' );
-define( 'NONCE_SALT',       '1%,fI!F{mC]X[44euzf+vMkF@l;TZ?!p}BR[,4=.jU9CpuYEuX2L>90% =n3aw$|' );
+define( 'AUTH_KEY',         'put your unique phrase here' );
+define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
+define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
+define( 'NONCE_KEY',        'put your unique phrase here' );
+define( 'AUTH_SALT',        'put your unique phrase here' );
+define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
+define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
+define( 'NONCE_SALT',       'put your unique phrase here' );
 
 /**#@-*/
 

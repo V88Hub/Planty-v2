@@ -1,4 +1,0 @@
-# Planty
-# Planty
-# Planty
-# Planty
